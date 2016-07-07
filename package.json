@@ -1,0 +1,23 @@
+{
+  "name": "gobble",
+  "version": "1.0.0",
+  "description": "WoW auction tracker and analysis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liamwye/gobble.git"
+  },
+  "keywords": [
+    "WoW",
+    "Auction"
+  ],
+  "author": "Liam Wye <liamwye@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liamwye/gobble/issues"
+  },
+  "homepage": "https://github.com/liamwye/gobble#readme"
+}
