@@ -1,0 +1,6 @@
+CREATE TABLE scan_realms (
+  id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  scanId INT NOT NULL,
+  realm VARCHAR(100) NOT NULL,
+  origin CHAR(4) NOT NULL
+);
